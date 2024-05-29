@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! 👋 I'm Ahmed , a software developer with a passion for developing apps. Welcome to my GitHub profile!
+Hi there! 👋 I'm Ahmed , a software developer with a passion for developing apps & websites. Welcome to my GitHub profile!
 
 ## About Me
 
