@@ -4,7 +4,7 @@ Hi there! 👋 I'm Ahmed , a software developer with a passion for developing ap
 
 ## About Me
 
-I am a software engineer with expertise in flutter, dart, php, mysql, software security. 
+I am a software engineer with expertise in flutter, dart, php,html, css, mysql, software security. 
 
 
 
